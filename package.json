@@ -27,5 +27,6 @@
     "mysql": "^2.18.1",
     "objection": "^3.0.1",
     "uuid": "^9.0.0"
-  }
+  },
+  "type": "module"
 }
